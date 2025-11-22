@@ -1,1 +1,2 @@
-YOLO11 tabanlı gerçek zamanlı görüntü işleme için hazırlanmış basit bir prototiptir.
+# 🚀 YOLO11 Görüntü İşleme Prototipi
+### Python ile basit ve hızlı nesne tespiti
