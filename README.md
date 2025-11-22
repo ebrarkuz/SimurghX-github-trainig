@@ -1,0 +1,1 @@
+YOLO11 tabanlı gerçek zamanlı görüntü işleme için hazırlanmış basit bir prototiptir.
